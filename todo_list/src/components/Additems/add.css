@@ -1,0 +1,18 @@
+.input1{
+    width: 60%;
+}
+.input2{
+    width: 30%;
+}
+
+.input3{
+    width: 10%;
+    background-color:rgb(0, 174, 255);
+    color: white;
+}
+input {
+    padding: 10px;
+    border: transparent;
+    background-color: #ebebeb;
+    border: 0.3px solid #ccc;
+}

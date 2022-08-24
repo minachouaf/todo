@@ -1,0 +1,37 @@
+
+.listeitems{
+    background-color: white;
+    color: rgb(15, 15, 236);
+}
+
+.listeitems p{
+  padding: 10px 0px;
+    text-align: center;
+    margin: 0px;
+}
+
+.listeitems span.icon{
+    color: rgb(187, 59, 59);
+    cursor: pointer;
+}
+span{
+    display: inline-block;
+    padding: 10px 0px;
+    text-align: center;
+    margin: 0px;
+    border: 0.3px solid #ccc;
+}
+span.title{
+    background: rgb(0, 174, 255);
+    color: aliceblue;
+
+}
+span.name{
+    width: 60%;
+}
+span.age{
+    width: 30%;
+}
+span.action{
+    width: 10%;
+}
